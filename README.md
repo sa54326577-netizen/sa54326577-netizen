@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**sa54326577-netizen/sa54326577-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there, I am Siraj Ahmed!
+About Me
+🎓 Student: Computer Science student working diligently on core fundamentals.
+💻 Self-Taught Journey: Passionate about learning programming, software development, and AI tools through hands-on practice.
+🏠 Approach: Independent learner working from home, focused on clear communication, dynamic problem solving, and building in public.
+🚀 Core Interests: Artificial Intelligence, Prompt Engineering, Computer Science Fundamentals, & Systems.
+🛠️ Languages & Tools
+Languages: C, Python
+Focus Areas: CS Fundamentals, Web Applications, AI Workflows
+Platform: Visual Studio Code, Git & GitHub
+📌 Featured Projects
+LexiBoost: Daily Vocabulary Improvement Web Application built during CS50x.
+<p align="center">
+<i>"Focused on continuous growth, genuine effort, and building meaningful software."</i>
+</p>
