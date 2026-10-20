@@ -1,5 +1,6 @@
 # Hi there, I am Siraj Ahmed!
 About Me
+
 Student: Computer Science student working diligently on core fundamentals.
 Self Taught Journey: Passionate about learning programming, software development, and AI tools through hands on practice.
 Approach: Independent learner working from home, focused on clear communication, dynamic problem solving, and building in public.
